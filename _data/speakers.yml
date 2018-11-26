@@ -56,6 +56,20 @@ Ms. Cerin is Member of the ((ISC)2 Board of Directors, President of the (ISC)2 C
     - {name: "twitter", link: "https://twitter.com/abaotic"}
     - {name: "github", link: "https://github.com/abaotic"}
 
+-
+  id: 7
+  presenter:
+  name: "Bruno"
+  surname: "Vunderl"
+  company: "MBition, Daimler AG"
+  title: "Software developer"
+  bio: ""
+  thumbnailUrl: BrunoVunderl.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://linkedin.com/in/bvunderl" }
+    - { name: "github", link: "https://github.com/xenosb" }
+
 # -
 #   id: 5
 #   name: "Mateusz"
