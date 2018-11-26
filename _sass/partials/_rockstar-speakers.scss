@@ -30,4 +30,10 @@ $small-rockstar-image-size: 120px;
         width: $small-rockstar-image-size;
         height: $small-rockstar-image-size;
     }
+    &:hover {
+        -webkit-transition: -webkit-transform 0.35s;
+        transition: transform 0.35s;
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
 }
