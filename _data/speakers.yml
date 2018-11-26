@@ -38,6 +38,24 @@ Ms. Cerin is Member of the ((ISC)2 Board of Directors, President of the (ISC)2 C
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/biljanacerin"}
     - {name: "twitter", link: "https://twitter.com/biljana_cerin"}
+-
+  id: 5
+  name: "Nenad"
+  surname: "Bakić"
+  company: "IRIM - Croatian Makers"
+  title: "Founder & Director"
+  bio: 'Croatian entrepreneur, investor and philanthropist. Mathematician, with careers in science,
+  digital media, finance and human resources. Serial founder, with multiple successful exits.
+  Currently focused on transforming education introducing STEM activities and programs.
+  Non-profit IRIM he has founded together with his wife Rujana runs the largest European extracurricular STEM program in EU,
+  Croatian Makers, reaching 100,000 children in Croatia, and indirectly with partners tens of thousands more in other countries.
+  Special advisor to the President of Croatia for Digital Transformation and STEM.'
+  thumbnailUrl: nenad.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nenad-bakic-cfa-2428912"}
+    - {name: "twitter", link: "https://twitter.com/nbakic"}
+
 # -
 #   id: 5
 #   name: "Mateusz"
