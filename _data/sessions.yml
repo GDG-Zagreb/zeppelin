@@ -42,6 +42,14 @@ In this session we will talk about best practices, how indexing works and how to
   speakers: [6]
   language: en
   complexity: "Intermediate"
+-
+  id: 005
+  presentation:
+  title: "Agile future of automotive industry"
+  description: "Automotive industy is still very old fashioned. Can it stay like this for much longer and how do we introduce changes without comprimising on safety."
+  speakers: [7]
+  language: en
+  complexity: "Beginner"
 # -
   # id: 002
   # title: "Building Cloud-powered wearable Apps"
