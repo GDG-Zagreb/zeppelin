@@ -1,5 +1,5 @@
 -
-  id: 3
+  id: 1
   name: "Martin"
   surname: "Splitt"
   company: "Google"
@@ -12,7 +12,7 @@ He is involved with the W3C as well as the global web and JavaScript developer c
   social:
     - {name: "twitter", link: "https://twitter.com/g33konaut"}
 -
-  id: 6
+  id: 2
   name: "Nenad"
   surname: "Bakić"
   company: "IRIM - Croatian Makers"
@@ -29,7 +29,7 @@ He is involved with the W3C as well as the global web and JavaScript developer c
     - {name: "linkedin", link: "https://www.linkedin.com/in/nenad-bakic-cfa-2428912"}
     - {name: "twitter", link: "https://twitter.com/nbakic"}
 -
-  id: 5
+  id: 3
   name: "Biljana"
   surname: "Cerin"
   company: "Ostendo Consulting"
@@ -55,10 +55,8 @@ Ms. Cerin is Member of the ((ISC)2 Board of Directors, President of the (ISC)2 C
   social:
     - {name: "twitter", link: "https://twitter.com/abaotic"}
     - {name: "github", link: "https://github.com/abaotic"}
-
 -
-  id: 7
-  presenter:
+  id: 5
   name: "Bruno"
   surname: "Vunderl"
   company: "MBition, Daimler AG"
@@ -69,7 +67,22 @@ Ms. Cerin is Member of the ((ISC)2 Board of Directors, President of the (ISC)2 C
   social:
     - { name: "linkedin", link: "https://linkedin.com/in/bvunderl" }
     - { name: "github", link: "https://github.com/xenosb" }
+-
+  id: 6
+  name: "Ivo"
+  surname: "Špigel"
+  company: "Perpetuum Mobile, ZIP Inkubator"
+  title: "Cofounder and board member at Perpetuum Mobile"
+  bio: "I wear several hats... I'm a co-founder and board member of Perpetuum Mobile, a software and IT services company based in Zagreb, Croatia. I write monthly columns and other pieces for Mreža (a Croatian IT magazine), and (previously) the Croatian edition of Forbes. My particular topic of interest are European startup founders & entrepreneurs who are making waves on the global high tech scene, about which I've written a book.
+        They are also to blame for my involvement as a cofounder and contributing editor in Tech.eu.
+        Wacky enough to start the first startup program in Croatia & the region: ZIP."
+  thumbnailUrl: IvoSpigel.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ivospigel/" }
+    - { name: "twitter", link: "https://twitter.com/ivospigel"}
 
+#
 # -
 #   id: 5
 #   name: "Mateusz"
