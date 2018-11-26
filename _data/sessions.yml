@@ -1,25 +1,29 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
+  title: "Pozdravni govor - Tina Fišić (organizatorica)"
+-
+  id: 002
+  title: "Pozdravni govor"
+  subtype: presentation
+  speakers: [2]
+-
+  id: 003
+  title: "Pozitivni Panel"
+  subtype: panel
+  speakers: [6,3]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 004
   title: "Technical SEO tips for JavaScript web apps"
   description: "Web Apps are a great way to reach a large audience of users, but JavaScript can create challenges when it comes to SEO and discoverability of your content.
 In this session we will talk about best practices, how indexing works and how to debug your web app."
   subtype: presentation
-  speakers: [3]
+  speakers: [1]
   language: en
   complexity: "Intermediate"
 -
-  id: 002
+  id: 005
   title: "Application signing and key management - Do it right!"
   description: "Want your Android application to have a long and happy existence? Want to keep your end users and organisation safe? Join us and learn more about mitigating future problems by using Google Play App Signing and best practices regarding key management."
   subtype: presentation
@@ -27,29 +31,21 @@ In this session we will talk about best practices, how indexing works and how to
   language: en
   complexity: "Intermediate"
 -
-  id: 003
-  title: "Title: TBA"
+  id: 006
+  title: "Security na Webu"
+  description: "Description: TBA"
+  subtype: presentation
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "Agile Future of Automotive"
   description: "Description: TBA"
   subtype: presentation
   speakers: [5]
   language: en
   complexity: "Intermediate"
--
-  id: 004
-  title: "Title: TBA"
-  description: "Description: TBA"
-  subtype: presentation
-  speakers: [6]
-  language: en
-  complexity: "Intermediate"
--
-  id: 005
-  presentation:
-  title: "Agile future of automotive industry"
-  description: "Automotive industy is still very old fashioned. Can it stay like this for much longer and how do we introduce changes without comprimising on safety."
-  speakers: [7]
-  language: en
-  complexity: "Beginner"
 # -
   # id: 002
   # title: "Building Cloud-powered wearable Apps"
