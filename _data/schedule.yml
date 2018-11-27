@@ -1,7 +1,7 @@
-- 
+-
   date: "2018-12-01"
   dateReadable: "December 1"
-  tracks: 
+  tracks:
     - {title: "Main", color: "#4885ed"}
   timeslots:
     - {
@@ -35,7 +35,7 @@
         sessionIds: [006]
     }
     - {
-        startTime: "14:00",
-        endTime: "14:45",
+        startTime: "13:30",
+        endTime: "14:15",
         sessionIds: [007]
     }
