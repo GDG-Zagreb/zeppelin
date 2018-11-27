@@ -61,9 +61,9 @@ Ms. Cerin is Member of the ((ISC)2 Board of Directors, President of the (ISC)2 C
   surname: "Vunderl"
   company: "MBition, Daimler AG"
   title: "Software developer"
-  bio: ""
+  bio: "Bruno is software developer at MBition, Mercedes-Benz Innovation Lab in Berlin. He's a part of team developing future car infotainment systems and proof of concept vehicles. Previously he worked in space and automotive industry, built a formula student car, organized a student club and multiple career fairs."
   thumbnailUrl: BrunoVunderl.jpg
-  rockstar: true
+  rockstar: false
   social:
     - { name: "linkedin", link: "https://linkedin.com/in/bvunderl" }
     - { name: "github", link: "https://github.com/xenosb" }
