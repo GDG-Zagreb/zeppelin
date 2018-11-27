@@ -42,12 +42,10 @@ In this session we will talk about best practices, how indexing works and how to
   complexity: "Intermediate"
 -
   id: 007
-  title: "Agile Future of Automotive"
-  description: "Description: TBA"
-  subtype: presentation
-  speakers: [5]
+  title: "The future of automotive is agile"
+  description: "The automotive industry is not yet up to date when it comes to software development. How can we establish more modern working methods without compromising product reliability? Join the discussion and learn more about the development process of applications for infotainment systems in vehicles."
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner" 
 # -
   # id: 002
   # title: "Building Cloud-powered wearable Apps"
