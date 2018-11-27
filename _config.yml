@@ -68,6 +68,8 @@ heroButtons:
  - {permalink: "/#schedule", text: "Schedule"}
  - {permalink: "/#tickets", text: "Buy tickets"}
  - {link: "/GDG_DevFest_Croatia_2018_Partnership_Proposition.pdf", text: "Sponsor us"}
+ - {link: "https://goo.gl/forms/xSTcpZ28ITYgwWJ43", text: "Apply for Job Speed Date!"}
+
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
