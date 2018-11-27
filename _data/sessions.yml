@@ -1,14 +1,14 @@
 -
   id: 001
-  title: "Pozdravni govor - Tina Fišić (organizatorica)"
+  title: "Welcome speech (Tina Fišić, event organizer)"
 -
   id: 002
-  title: "Pozdravni govor"
+  title: "Google digitalna garaža (Nenad Bakić, IRIM)"
   subtype: presentation
   speakers: [2]
 -
   id: 003
-  title: "Pozitivni Panel"
+  title: "Positive Panel"
   subtype: panel
   speakers: [6,3]
   language: en
