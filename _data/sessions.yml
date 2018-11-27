@@ -32,8 +32,10 @@ In this session we will talk about best practices, how indexing works and how to
   complexity: "Intermediate"
 -
   id: 006
-  title: "Security na Webu"
-  description: "Description: TBA"
+  title: "Web security and beyond"
+  description: "This session will give an overview of the most common web application security risks and tools that can help you in identifying and mitigating these risks timely.
+  Special emphasis will be given on efficient identification, assessment and management of information security and compliance risks for organizations operating in fast-paced, agile environments.
+  It will be discussed what has to be done within the company, both organizationally and technically, to enhance the culture, awareness and understanding of the importance of information security at all levels within an organization, no matter how big or small it is."
   subtype: presentation
   speakers: [3]
   language: en
