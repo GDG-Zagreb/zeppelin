@@ -10,7 +10,7 @@
   id: 003
   title: "Positive Panel"
   subtype: panel
-  speakers: [6,3]
+  speakers: [6,3,7]
   language: en
   complexity: "Intermediate"
 -
@@ -46,7 +46,7 @@ In this session we will talk about best practices, how indexing works and how to
   description: "The automotive industry is not yet up to date when it comes to software development. How can we establish more modern working methods without compromising product reliability? Join the discussion and learn more about the development process of applications for infotainment systems in vehicles."
   language: en
   speakers: [5]
-  complexity: "Beginner" 
+  complexity: "Beginner"
 # -
   # id: 002
   # title: "Building Cloud-powered wearable Apps"
