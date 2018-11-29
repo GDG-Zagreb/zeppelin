@@ -2,6 +2,10 @@
   group: "GOLDEN SPONSOR"
   elements:
     - {name: "LEAPBIT", description: "We took a leap with LEAPBIT", link: "https://www.leapbit.com", imageUrl: "leapbit.png"}
+ -
+  group: "Bronze Sponsor"
+  elements:
+    - {name: "Speck", description: "We solve problems through creativity and collaboration", link: "https://speck.agency", imageUrl: "speck.png"}
 # -
 #   group: "With support of"
 #   elements:
