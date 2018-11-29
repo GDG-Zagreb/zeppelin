@@ -81,6 +81,19 @@ Ms. Cerin is Member of the ((ISC)2 Board of Directors, President of the (ISC)2 C
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/ivospigel/" }
     - { name: "twitter", link: "https://twitter.com/ivospigel"}
+-
+  id: 7
+  name: "Tomislav"
+  surname: "Tenodi"
+  company: "Speck"
+  title: "Founder & Director, Speck"
+  bio: "Oh, hi - didn't see you there! I am a founder of Speck, a young design and development agency. In a year, we grew from 2 to 12 awesome IT professionals, and we're just warming up. In my free time, I lead a global React Native meet-up and talk on several conferences. I also watched the last season of Silicon Valley which makes me a serial entrepreneur."
+  thumbnailUrl: TomislavTenodi.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/tenodi/" }
+    - { name: "twitter", link: "https://twitter.com/tomislavtenodi"}
+
 
 #
 # -
