@@ -91,7 +91,7 @@ Look, mingle, learn, try and be impressed by some of the best technology innovat
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "5", specialCharacter: "+", info: "hours", detail: "hours around web, mobile and cloud technology"}
  - {count: "4", specialCharacter: "+", info: "speakers", detail: "from Croatia and all over the world"}
  - {count: "1", specialCharacter: "", info: "track", detail: "plus entertainment lounge"}
