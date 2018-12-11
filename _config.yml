@@ -88,7 +88,8 @@ Lobby full of companies and startups showing off their work in awesome HUB385!<b
 Look, mingle, learn, try and be impressed by some of the best technology innovations around!" }
  - {title: "Job speed date", image: "workshop.jpg", text: "You get 4–5 minutes with each company and then move on. It aims for both companies and developers to see what’s out there." }
 hasPromoVideo: true
-promotionVideoUrl: "https://drive.google.com/file/d/1EgDucWa-iN06zOp66UNIl_z4_H-D-xRz/preview"
+promotionVideoUrl: "https://drive.google.com/uc?export=download&id=1EgDucWa-iN06zOp66UNIl_z4_H-D-xRz"
+promotionVideoPoster: "https://lh3.googleusercontent.com/NbgX9rQ_DPoZ1c7S7vJJCYyUYGETFW_TYH4GKrUcg-0EELz6KGa-rYhHcT1Ohr4LebRCoKj6QqkaO-Acdg1V=w1920-h1080-n-k-rw"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
